@@ -6,5 +6,4 @@ The dataset is collected using a polarization camera (LUCID, TRI050S),uipped wit
  ![Logo](./Introduction.png)
  
 # Data Access
-For inquiries regarding dataset usage and licensing, please contact:
-📧 ​​liyudong@dlmu.edu.cn
+Data Acquisition Statement: The datasets referenced in this paper are currently under review. Should the paper be accepted for publication, we will make the data publicly available upon formal publication.
